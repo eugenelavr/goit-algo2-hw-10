@@ -1,0 +1,16 @@
+pycache/
+*.py[cod]
+*.so
+
+venv/
+.env
+
+*.log
+pip-log.txt
+
+.vscode/
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
